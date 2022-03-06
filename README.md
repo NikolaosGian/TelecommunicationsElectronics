@@ -1,4 +1,3 @@
-# TelecommunicationsElectronics
 <br />
 <div align="center">
   <h1 align="center"> Telecommunications Electronics </h1>
