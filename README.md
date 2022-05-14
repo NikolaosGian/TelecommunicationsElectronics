@@ -13,3 +13,4 @@
 </div>
 <br />
 
+In the present article we make a short presentation about the Radar cars at 77GHz with the help of my fellow student Stavros, as well as an individual work (different for everyone) in the HFSS program.
