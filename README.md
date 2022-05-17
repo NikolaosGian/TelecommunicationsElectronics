@@ -15,6 +15,8 @@
 
 In the present article we make a short presentation about the Radar cars at 77GHz with the help of my fellow student Stavros, as well as an individual work (different for everyone) in the HFSS program.
 
+check the [**_report for HFSS assignemnt_**](https://github.com/NikolaosGian/TelecommunicationsElectronics/blob/main/assignment%20and%20report%20pdf/report.pdf)
+
 **_NOTE:_** The assginment for HFFS is atomic work for each student
 
-check the [**_report for HFSS assignemnt_**](https://github.com/NikolaosGian/TelecommunicationsElectronics/blob/main/assignment%20and%20report%20pdf/report.pdf)
+
